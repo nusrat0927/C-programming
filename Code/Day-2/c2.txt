@@ -1,1 +1,1 @@
-sum of two number
+Write a program of finding out odd and even numbers.
