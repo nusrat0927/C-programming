@@ -1,3 +1,4 @@
 Write a program of finding out odd and even numbers.
 The current year and the year in which the employee joined the organization are entered through the keyboard. If the number of years for which the employees has served the organization is greater than 3 then a bonus of Rs2500 is given to employee . if the year of service is not greater than 3 then the program should be nothing.
 Write a program of nested if else. 
+Division obtained by the students.
